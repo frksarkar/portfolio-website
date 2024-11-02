@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website! This project showcases my skills and expertise in web development and design. The site is structured into six main sections: **Home**, **About**, **Skills**, **Services**, **Portfolio**, and **Let's Talk**. Each section is crafted to provide a comprehensive view of my abilities and work experience.
 
-**Live demo link:** [https://frksarkar.github.io/protfolio-website/](https://frksarkar.github.io/protfolio-website/)
+**Live demo link:** [https://frksarkar.github.io/protfolio-website/](https://frksarkar.github.io/portfolio-website/)
 
 ## Table of Contents
 
