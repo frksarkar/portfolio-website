@@ -570,12 +570,12 @@ h2 {
 	width: 50rem;
 }
 
-#testimonials .carousel {
-	/* display: flex; */
-	/* align-items: center; */
-	/* flex-direction: column; */
-	/* gap: 1rem; */
-}
+/* #testimonials .carousel { */
+/* display: flex; */
+/* align-items: center; */
+/* flex-direction: column; */
+/* gap: 1rem; */
+/* } */
 
 #testimonials .testimonial {
 	display: flex;
