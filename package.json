@@ -1,0 +1,26 @@
+{
+	"name": "portfolio-website",
+	"version": "1.0.0",
+	"description": "Welcome to my portfolio website! This project showcases my skills and expertise in web development and design. The site is structured into six main sections: **Home**, **About**, **Skills**, **Services**, **Portfolio**, and **Let's Talk**. Each section is crafted to provide a comprehensive view of my abilities and work experience.",
+	"main": "script.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "lite-server",
+		"dev": "ts-node script.ts"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/frksarkar/portfolio-website.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/frksarkar/portfolio-website/issues"
+	},
+	"homepage": "https://github.com/frksarkar/portfolio-website#readme",
+	"devDependencies": {
+		"lite-server": "^2.6.1",
+		"ts-node": "^10.9.2"
+	}
+}
